@@ -1,5 +1,3 @@
-import itertools
-a = [2,4,6]
-a.pop()
-print(a)
-   
+a = [1,1,1]
+b=min(a)
+print(b)
