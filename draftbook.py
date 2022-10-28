@@ -1,3 +1,2 @@
-a = [1,1,1]
-b=min(a)
-print(b)
+s= [1]
+print(s[0:0])
