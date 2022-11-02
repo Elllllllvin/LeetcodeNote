@@ -12,6 +12,7 @@
 [16. 最接近的三数之和](./p16M-ThreeSumCloest.md)\
 [18. 四数之和](./p18M-fourSum.md)\
 [24. 两两交换链表中的节点](./p24M-swapPairs.md)
+[42. 接雨水](https://leetcode.cn/problems/trapping-rain-water/description/)
 
 ## KMP 算法
 
@@ -27,6 +28,8 @@
 [5. 最长回文子串](./p05M-longestPalindrome.md)\
 [10. 正则表达式匹配](./p10H-isMatch.md)\
 [32. 最长有效括号](./p32H-longestValidPar.md)
+[42. 接雨水](https://leetcode.cn/problems/trapping-rain-water/description/)
+[44. 通配符匹配](https://leetcode.cn/problems/wildcard-matching/description/)
 
 ## 二分法查找
 
@@ -38,3 +41,12 @@
 [37. 解数独](./p37H-solveSudoku.md)\
 [39.combinationSum](./p39M-combinationSum.md)\
 [40.combinationSumII](./p40M-combinationSumII.md)
+[46. 全排列 ⭐⭐⭐](https://leetcode.cn/problems/permutations/description/)
+
+## Hash 表
+
+[41. 缺失的第一个正数](./p41H-firstMissingPositive.md)
+
+## 贪心算法
+
+[45. 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/description/)

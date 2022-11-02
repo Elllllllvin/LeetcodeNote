@@ -1,2 +1,5 @@
-s= [1]
-print(s[0:0])
+import math
+temp = 0
+item ='edghdgfg'
+
+print(sorted(item))
