@@ -30,6 +30,7 @@
 [32. 最长有效括号](./p32H-longestValidPar.md)
 [42. 接雨水](https://leetcode.cn/problems/trapping-rain-water/description/)
 [44. 通配符匹配](https://leetcode.cn/problems/wildcard-matching/description/)
+[53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/description/)
 
 ## 二分法查找
 
@@ -42,6 +43,9 @@
 [39.combinationSum](./p39M-combinationSum.md)\
 [40.combinationSumII](./p40M-combinationSumII.md)
 [46. 全排列 ⭐⭐⭐](https://leetcode.cn/problems/permutations/description/)
+[47. 全排列 II](https://leetcode.cn/problems/permutations-ii/description/)
+[51. N 皇后](https://leetcode.cn/problems/n-queens/description/)
+[52. N 皇后 II](https://leetcode.cn/problems/n-queens-ii/description/)
 
 ## Hash 表
 
@@ -49,4 +53,15 @@
 
 ## 贪心算法
 
+[55. 跳跃游戏](https://leetcode.cn/problems/jump-game/description/)
 [45. 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/description/)
+
+## 矩阵
+
+[48. 旋转图像](https://leetcode.cn/problems/rotate-image/description/)
+[54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/description/)
+
+## 排序的妙用
+
+[49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/description/)
+[56. 合并区间](https://leetcode.cn/problems/merge-intervals/description/)

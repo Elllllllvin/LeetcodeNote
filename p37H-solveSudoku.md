@@ -39,7 +39,6 @@ class Solution:
                 else:
                     digit = int(board[i][j]) - 1
                     line[i][digit] = column[j][digit] = block[i // 3][j // 3][digit] = True
-
         dfs(0)
 
 ```
