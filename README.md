@@ -31,6 +31,8 @@
 [42. 接雨水](https://leetcode.cn/problems/trapping-rain-water/description/)
 [44. 通配符匹配](https://leetcode.cn/problems/wildcard-matching/description/)
 [53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/description/)
+[63. 不同路径 II](https://leetcode.cn/problems/unique-paths-ii/description/)
+[64. 最小路径和](https://leetcode.cn/problems/minimum-path-sum/description/)
 
 ## 二分法查找
 
