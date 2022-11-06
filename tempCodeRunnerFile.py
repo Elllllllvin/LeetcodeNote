@@ -1,1 +1,2 @@
-print('哈哈')
+res = '100'
+print(res)
