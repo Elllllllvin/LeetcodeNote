@@ -5,6 +5,7 @@
 ## 堆栈
 
 [20. 有效的括号](./p20E-isValid.md)
+[71. 简化路径](https://leetcode.cn/problems/simplify-path/description/)
 
 ## 多指针
 
@@ -22,6 +23,7 @@
 
 [3. 无重复字符的最长子串](./p03M-lengthOfLongestSubs.md)\
 [30. 串联所有单词的子串](./p30H-findSubstring.md)
+[76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/description/)
 
 ## 动态规划
 
@@ -33,12 +35,14 @@
 [53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/description/)\
 [63. 不同路径 II](https://leetcode.cn/problems/unique-paths-ii/description/)\
 [64. 最小路径和](https://leetcode.cn/problems/minimum-path-sum/description/)\
+[72. 大厂面试题 ⭐⭐⭐：编辑距离](https://leetcode.cn/problems/edit-distance/description/)
 
 ## 二分法查找
 
 [33. 搜索旋转排序数组](./p33M-search.md)\
 [34. 在排序数组中查找元素的第一个和最后一个位置](./p34M-searchRange.md)\
 [69. 经典面试题 ⭐：x 的平方根 ](https://leetcode.cn/problems/sqrtx/description/)\
+[74. 搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/description/)\
 
 ## 回溯 DFS 深度优先算法
 
