@@ -53,6 +53,8 @@
 [47. 全排列 II](https://leetcode.cn/problems/permutations-ii/description/)\
 [51. N 皇后](https://leetcode.cn/problems/n-queens/description/)\
 [52. N 皇后 II](https://leetcode.cn/problems/n-queens-ii/description/)\
+[77. 组合](https://leetcode.cn/problems/combinations/description/)\
+[78. 子集](https://leetcode.cn/problems/subsets/description/)
 
 ## Hash 表
 
