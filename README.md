@@ -4,8 +4,13 @@
 
 ## 堆栈
 
-[20. 有效的括号](./p20E-isValid.md)
+[20. 有效的括号](./p20E-isValid.md)\
 [71. 简化路径](https://leetcode.cn/problems/simplify-path/description/)
+
+## 单调栈
+
+[42. 接雨水](https://leetcode.cn/problems/trapping-rain-water/description/)\
+[84. 柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/description/)
 
 ## 多指针
 
@@ -22,7 +27,7 @@
 ## 滑动窗口
 
 [3. 无重复字符的最长子串](./p03M-lengthOfLongestSubs.md)\
-[30. 串联所有单词的子串](./p30H-findSubstring.md)
+[30. 串联所有单词的子串](./p30H-findSubstring.md)\
 [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/description/)
 
 ## 动态规划
