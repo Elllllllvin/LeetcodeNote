@@ -43,7 +43,9 @@
 [64. 最小路径和](https://leetcode.cn/problems/minimum-path-sum/description/)\
 [72. 大厂面试题 ⭐⭐⭐：编辑距离](https://leetcode.cn/problems/edit-distance/description/)\
 [91. 解码方法](https://leetcode.cn/problems/decode-ways/description/)\
-[97. 交错字符串](https://leetcode.cn/problems/interleaving-string/description/)
+[97. 交错字符串](https://leetcode.cn/problems/interleaving-string/description/)\
+[115. 不同的子序列](https://leetcode.cn/problems/distinct-subsequences/description/)\
+[120. 三角形最小路径和](https://leetcode.cn/problems/triangle/description/)
 
 ## 二分法查找
 
