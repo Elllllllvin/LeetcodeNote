@@ -45,7 +45,9 @@
 [91. 解码方法](https://leetcode.cn/problems/decode-ways/description/)\
 [97. 交错字符串](https://leetcode.cn/problems/interleaving-string/description/)\
 [115. 不同的子序列](https://leetcode.cn/problems/distinct-subsequences/description/)\
-[120. 三角形最小路径和](https://leetcode.cn/problems/triangle/description/)
+[120. 三角形最小路径和](https://leetcode.cn/problems/triangle/description/)\
+[132. 分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/description/)\
+[139. 单词拆分](https://leetcode.cn/problems/word-break/description/)
 
 ## 二分法查找
 
@@ -54,7 +56,7 @@
 [69. 经典面试题 ⭐：x 的平方根 ](https://leetcode.cn/problems/sqrtx/description/)\
 [74. 搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/description/)\
 
-## 回溯 DFS 深度优先算法
+## 回溯 / DFS 深度优先算法
 
 [37. 解数独](./p37H-solveSudoku.md)\
 [39.combinationSum](./p39M-combinationSum.md)\
@@ -66,7 +68,19 @@
 [77. 组合](https://leetcode.cn/problems/combinations/description/)\
 [78. 子集](https://leetcode.cn/problems/subsets/description/)\
 [90. 子集 II](https://leetcode.cn/problems/subsets-ii/description/)\
-[93. 复原 IP 地址](https://leetcode.cn/problems/restore-ip-addresses/description/)
+[93. 复原 IP 地址](https://leetcode.cn/problems/restore-ip-addresses/description/)\
+[130. 被围绕的区域](https://leetcode.cn/problems/surrounded-regions/description/)\
+[140. 单词拆分 II](https://leetcode.cn/problems/word-break-ii/description/)
+
+### 二叉树的题很多都用 dfs，，，没列上去
+
+[124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/description/)\
+[129. 求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/description/)
+
+## BFS 算法
+
+[127. 单词接龙](https://leetcode.cn/problems/word-ladder/description/)\
+[126. 单词接龙 II](https://leetcode.cn/problems/word-ladder-ii/description/)
 
 ## Hash 表
 
@@ -90,9 +104,15 @@
 ## 位运算
 
 [67. 二进制求和](https://leetcode.cn/problems/add-binary/description/)
+[136. 只出现一次的数字](https://leetcode.cn/problems/single-number/description/)
 
 ## 二叉树三种遍历
 
 [94. ⭐⭐ 二叉树的中序遍历（三种遍历迭代通用公式）](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)\
 [95. 不同的二叉搜索树 II](https://leetcode.cn/problems/unique-binary-search-trees-ii/description/)\
-[102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/)
+[102. ⭐⭐dfs/bfs:二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/)
+
+## 没做出的题 😓
+
+[132. 分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/description/)
+[字节面试题！！！135. 分发糖果](https://leetcode.cn/problems/candy/description/)
