@@ -47,7 +47,8 @@
 [115. 不同的子序列](https://leetcode.cn/problems/distinct-subsequences/description/)\
 [120. 三角形最小路径和](https://leetcode.cn/problems/triangle/description/)\
 [132. 分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/description/)\
-[139. 单词拆分](https://leetcode.cn/problems/word-break/description/)
+[139. 单词拆分](https://leetcode.cn/problems/word-break/description/)\
+[152. 乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/description/)
 
 ## 二分法查找
 
@@ -55,6 +56,7 @@
 [34. 在排序数组中查找元素的第一个和最后一个位置](./p34M-searchRange.md)\
 [69. 经典面试题 ⭐：x 的平方根 ](https://leetcode.cn/problems/sqrtx/description/)\
 [74. 搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/description/)\
+[153. 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/description/)
 
 ## 回溯 / DFS 深度优先算法
 
@@ -112,7 +114,9 @@
 [95. 不同的二叉搜索树 II](https://leetcode.cn/problems/unique-binary-search-trees-ii/description/)\
 [102. ⭐⭐dfs/bfs:二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/)
 
-## 没做出的题 😓
+## 大厂面试题 😓
 
-[132. 分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/description/)
-[字节面试题！！！135. 分发糖果](https://leetcode.cn/problems/candy/description/)
+[132. 分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/description/)\
+[字节面试题！！！135. 分发糖果](https://leetcode.cn/problems/candy/description/)\
+[很经典的面试题！146. LRU 缓存](https://leetcode.cn/problems/lru-cache/description/)
+[字节面试 148. 排序链表](https://leetcode.cn/problems/sort-list/description/)

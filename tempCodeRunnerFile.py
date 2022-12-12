@@ -1,5 +1,1 @@
-temp = ''
-if temp:
-    print(1)
-else:
-    print(0)
+print(int(6/-132))
