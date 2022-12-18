@@ -1,1 +1,1 @@
-print(int(6/-132))
+print(int('011'))
