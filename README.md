@@ -53,6 +53,7 @@
 [174. 地下城游戏](https://leetcode.cn/problems/dungeon-game/description/)
 
 [198. 打家劫舍](https://leetcode.cn/problems/house-robber/description/)
+[（背包问题🌟）279. 完全平方数](https://leetcode.cn/problems/perfect-squares/description/)
 
 ## 二分法查找
 
@@ -79,11 +80,14 @@
 [140. 单词拆分 II](https://leetcode.cn/problems/word-break-ii/description/)
 [200. 岛屿数量](https://leetcode.cn/problems/number-of-islands/description/)
 [212. 单词搜索 II](https://leetcode.cn/problems/word-search-ii/description/)
+[241. 为运算表达式设计优先级](https://leetcode.cn/problems/different-ways-to-add-parentheses/description/)
+[282. 给表达式添加运算符](https://leetcode.cn/problems/expression-add-operators/description/)
 
 ### 二叉树的题很多都用 dfs，，，没列上去
 
 [124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/description/)
 [129. 求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/description/)
+[235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
 
 ## BFS 算法
 
@@ -93,6 +97,9 @@
 ## Hash 表
 
 [41. 缺失的第一个正数](./p41H-firstMissingPositive.md)
+
+## 摩尔投票法
+[229. 多数元素 II](https://leetcode.cn/problems/majority-element-ii/description/)
 
 ## 贪心算法
 
@@ -118,6 +125,7 @@
 [67. 二进制求和](https://leetcode.cn/problems/add-binary/description/)
 [136. 只出现一次的数字](https://leetcode.cn/problems/single-number/description/)
 [190. 颠倒二进制位](https://leetcode.cn/problems/reverse-bits/description/)
+[260. 只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/description/)
 
 [201. 数字范围按位与](https://leetcode.cn/problems/bitwise-and-of-numbers-range/description/)
 
@@ -126,6 +134,7 @@
 [94. ⭐⭐ 二叉树的中序遍历（三种遍历迭代通用公式）](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)
 [95. 不同的二叉搜索树 II](https://leetcode.cn/problems/unique-binary-search-trees-ii/description/)
 [102. ⭐⭐dfs/bfs:二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/)
+[230. 二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/description/)
 
 ## Sql 数据库的题
 
