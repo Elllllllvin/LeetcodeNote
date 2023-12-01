@@ -51,9 +51,18 @@
 [139. 单词拆分](https://leetcode.cn/problems/word-break/description/)
 [152. 乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/description/)
 [174. 地下城游戏](https://leetcode.cn/problems/dungeon-game/description/)
-
 [198. 打家劫舍](https://leetcode.cn/problems/house-robber/description/)
 [（背包问题🌟）279. 完全平方数](https://leetcode.cn/problems/perfect-squares/description/)
+[309. 买卖股票的最佳时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
+[312. 戳气球](https://leetcode.cn/problems/burst-balloons/description/)
+
+[322. 零钱兑换](https://leetcode.cn/problems/coin-change/description/)
+
+[354. 俄罗斯套娃信封问题](https://leetcode.cn/problems/russian-doll-envelopes/description/)
+
+[376. 摆动序列](https://leetcode.cn/problems/wiggle-subsequence/description/)
+
+[377. 组合总和 Ⅳ](https://leetcode.cn/problems/combination-sum-iv/description/)
 
 ## 二分法查找
 
@@ -99,6 +108,7 @@
 [41. 缺失的第一个正数](./p41H-firstMissingPositive.md)
 
 ## 摩尔投票法
+
 [229. 多数元素 II](https://leetcode.cn/problems/majority-element-ii/description/)
 
 ## 贪心算法
@@ -126,8 +136,8 @@
 [136. 只出现一次的数字](https://leetcode.cn/problems/single-number/description/)
 [190. 颠倒二进制位](https://leetcode.cn/problems/reverse-bits/description/)
 [260. 只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/description/)
-
 [201. 数字范围按位与](https://leetcode.cn/problems/bitwise-and-of-numbers-range/description/)
+[318. 最大单词长度乘积](https://leetcode.cn/problems/maximum-product-of-word-lengths/description/)
 
 ## 二叉树三种遍历
 
@@ -135,6 +145,11 @@
 [95. 不同的二叉搜索树 II](https://leetcode.cn/problems/unique-binary-search-trees-ii/description/)
 [102. ⭐⭐dfs/bfs:二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/)
 [230. 二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/description/)
+[297. 二叉树的序列化与反序列化](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/description/)
+
+## 树状数组
+
+[307. 区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable/description/)
 
 ## Sql 数据库的题
 

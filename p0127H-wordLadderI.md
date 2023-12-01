@@ -13,8 +13,7 @@
 - 时间复杂度: $O(n*Lengthofword)$
 - 空间复杂度: $O(n)$
 
-```Python []
-
+```Python
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
         if not wordList or endWord not in wordList:

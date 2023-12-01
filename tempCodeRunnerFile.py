@@ -1,1 +1,2 @@
-print(int('011'))
+a = int('1234')
+print(a)
